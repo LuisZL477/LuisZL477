@@ -18,10 +18,7 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisZL477&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisZL477&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
