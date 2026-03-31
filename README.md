@@ -18,10 +18,6 @@
 
 ---
 
-
-
----
-
 ### 🎯 En este momento
 
 🔭 Construyendo proyectos mobile para mi portafolio
